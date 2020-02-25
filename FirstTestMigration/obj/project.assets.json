@@ -8899,11 +8899,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\mod2020\\demomodernizing\\FirstTestMigration\\FirstTestMigration.csproj",
+      "projectUniqueName": "C:\\demo2020\\demomodernizing\\FirstTestMigration\\FirstTestMigration.csproj",
       "projectName": "FirstTestMigration",
-      "projectPath": "C:\\mod2020\\demomodernizing\\FirstTestMigration\\FirstTestMigration.csproj",
+      "projectPath": "C:\\demo2020\\demomodernizing\\FirstTestMigration\\FirstTestMigration.csproj",
       "packagesPath": "C:\\Users\\leger\\.nuget\\packages\\",
-      "outputPath": "C:\\mod2020\\demomodernizing\\FirstTestMigration\\obj\\",
+      "outputPath": "C:\\demo2020\\demomodernizing\\FirstTestMigration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
